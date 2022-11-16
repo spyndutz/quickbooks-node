@@ -1,0 +1,12 @@
+{
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "node": true,
+    "mocha": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2022
+  },
+  "extends": ["eslint:recommended", "plugin:node/recommended", "plugin:markdown/recommended", "plugin:prettier/recommended"]
+}
